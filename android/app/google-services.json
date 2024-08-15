@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704231007249",
+    "project_id": "work-2d06f",
+    "storage_bucket": "work-2d06f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704231007249:android:ff67dabc37330230e0fdb0",
+        "android_client_info": {
+          "package_name": "com.puma.firstfiremusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9dYhBgNXmZJzFLmwsxkEBKwWdYq4FLZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
